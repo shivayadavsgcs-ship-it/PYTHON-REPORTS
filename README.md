@@ -58,6 +58,40 @@ Created a multi-panel visualization dashboard covering:
 ---
 
 ## 🚀 How to Run the Project
-1. Clone this repository:
+:- Clone this repository:
    ```bash
    git clone [https://github.com/shivayadavsgcs-ship-it/PYTHON-REPORTS.git](https://github.com/shivayadavsgcs-ship-it/PYTHON-REPORTS.git)
+
+   ---
+
+2.# 📊 Job Market Dataset - Exploratory Data Analysis (EDA)
+
+An end-to-end Exploratory Data Analysis project analyzing modern tech hiring trends, role distributions, and salary compensation benchmarks using Python.
+
+## 🎯 Project Overview
+The objective of this analysis is to evaluate tech hiring patterns and provide compensation insights:
+- Benchmarking top paying roles based on maximum average salary.
+- Evaluating active hiring volume and demand across tech categories.
+- Proportional distribution of technical domains using distribution charts.
+- Salary trends across leading tech firms.
+- Highlighting peak in-demand job profiles.
+
+## 🛠 Tech Stack & Libraries
+- **Language:** Python
+- **Data Manipulation:** `pandas`, `numpy`
+- **Data Visualization:** `matplotlib.pyplot`, `seaborn`
+- **Environment:** Jupyter Notebook
+
+## 📊 Dashboard & Visualizations
+Created a multi-panel visual dashboard covering:
+1. Top Job Titles by Average Max Salary:** Bar plot highlighting highest paying roles.
+2. Job Openings by Category:** Horizontal bar chart evaluating category-wise job counts.
+3. Job Category Distribution:** Pie chart showcasing proportional domain distribution.
+4. Top Companies by Average Max Salary:** Line plot tracking compensation benchmarks across companies.
+5. Top Job Category by Avg Max Salary:** Seaborn bar plot showing domain-level salary trends.
+6. Top 5 In-Demand Job Titles:** Horizontal bar plot of roles with peak hiring frequency.
+
+## 💡 Key Insights
+- High Compensation Profiles:** Machine Learning and Data Science roles command the highest salary tiers.
+- Hiring Volume:** Data and Software domains represent the largest share of active job openings.
+- Top Employers:** Leading multinational firms and tech giants offer premium compensation packages across technical positions.
